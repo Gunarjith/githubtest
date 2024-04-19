@@ -13,6 +13,11 @@ print("bgbhh")
 print("banana leaves")
 print("mmm")
 print("jjj")
+print("nnnn")
+print("iphone")
+print("ccbcbcc")
+print("jfjfjj")
+
 
 
 
